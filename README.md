@@ -1,4 +1,4 @@
-# Welcome to the code for my Tell-a-Tree NYC project, which was developed for ITP Camp 2013 at NYU.
+# Welcome to the Tell-a-Tree NYC project code, which was developed during ITP Camp 2013 at NYU.
 
 It's a very simple prototype to demo the functionality of the project and it's proposed interaction.
 
