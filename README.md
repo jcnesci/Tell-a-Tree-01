@@ -22,6 +22,10 @@ For the initial prototype that we have here, there is only 1 master (which recor
 ### The Master
 
 The master is made of the following parts:
+* the code:
+** the 'tellatree_master.py' file
+** the 'audio_recordings/' folder
+** the startup script
 * Raspberry Pi model B (ie. with ethernet port)
 * TP-Link nano router (for a quick and easy router solution)
 * Syma USB audio adapter (for recording audio input)
