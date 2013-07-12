@@ -17,7 +17,7 @@ This project is about bringing out these memories, and letting new ones take for
 
 The idea was to create a network of Raspberry Pi's, with one master that allowed users to record audio snippets, and many slaves that could playback those recordings.
 
-For the initial prototype that we have here, there is only 1 master (which records) and 1 slave (which do playback). The code is laughably simple, only a few lines, really. But it's a start, and it works!
+For the initial prototype that we have here, there is only 1 master (which records) and 1 slave (which does playback). The code is laughably simple, only a few lines, really. But it's a start, and it works!
 
 ### The Master
 
