@@ -21,7 +21,7 @@ For the initial prototype that we have here, there is only 1 master (which recor
 
 ### The Master
 
-The code for the master is comprises the following:
+The code for the master comprises the following:
 * the 'tellatree_master.py' file
 * the 'audio_recordings/' folder
 * the startup script
