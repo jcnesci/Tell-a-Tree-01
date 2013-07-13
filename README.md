@@ -67,7 +67,7 @@ I set the master to 198.168.0.100 and the slave to 198.168.0.150.
 
 *	[ install the GPIO python library ] (http://learn.adafruit.com/playing-sounds-and-using-buttons-with-raspberry-pi/install-python-module-rpi-dot-gpio) on boh Pi's (newer Raspbian releases should have it already though).
 *	connect [ buttons ] (http://learn.adafruit.com/playing-sounds-and-using-buttons-with-raspberry-pi/bread-board-setup-for-input-buttons) and the [ LED ] (http://learn.adafruit.com/raspberry-pi-e-mail-notifier-using-leds/wire-leds) to GPIO pins on the Pi's (the master has a button and the LED ; the slave has only a button).
-*	install rsync on both Pi's : 'apt-get install rsync'
+*	install rsync on both Pi's : `apt-get install rsync`
 *	[ setup ssh-key ] (https://blogs.oracle.com/jkini/entry/how_to_scp_scp_and) on your Pi's so rsync can operate without asking you for a password everytime. Do [ this ] (http://www.thegeekstuff.com/2010/04/how-to-fix-offending-key-in-sshknown_hosts-file/) too if problems arise.
 *	on the Master, [ setup your USB audio adapter ] (http://asliceofraspberrypi.blogspot.ca/2013/02/adding-audio-input-device.html) to be the default recording device.
 
