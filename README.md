@@ -1,4 +1,6 @@
-# Welcome to the Tell-a-Tree NYC project code, which was developed during ITP Camp 2013 at NYU.
+# The Tell-a-Tree NYC codebase
+
+Welcome to the TAT-NYC project code, which was created during ITP Camp 2013 at NYU.
 
 It's a very simple prototype to demo the functionality of the project and it's proposed interaction.
 
