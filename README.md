@@ -11,7 +11,7 @@ Trees surround us, even in the city ; the insight behind this project is that ou
 Park-goers will come upon special birdhouses attached to trees that incite them to share a secret of theirs by speaking into them.
 At another end of the park, other types of birdhouses will playback people's secrets in randomly assembled forms, unbeknownst to the one's who shared secrets. 
 
-Like a physical version of [ PostSecret ](http://www.postsecret.com/), or maybe a pun on magpies that might be living in the birdhouses, these objects attract and diffuse secrets throughout a park in various patterns and narrative threads depending on how they are placed among the trees, creating endless possibilities for new experiences.
+Like a physical version of [ PostSecret ](http://www.postsecret.com/), or maybe a pun on [ magpies ] (http://upload.wikimedia.org/wikipedia/en/5/5d/Talking_Magpies.PNG) that might be living in the birdhouses, these objects attract and diffuse secrets throughout a park in various patterns and narrative threads depending on how they are placed among the trees, creating endless possibilities for new experiences.
 
 This project is about bringing out these memories, and letting new ones take form by letting people connect in their most natural surroundings.
 
