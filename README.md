@@ -91,6 +91,7 @@ Push your Slave's record button, and you should hear one of the recorded message
 Do let me know if you have ideas for fixing the following issues:
 *	rsync will have hiccups sometimes and not really work, although it usually does ; not too sure how to make it more stable.
 *	the recording does work but sometimes it is interrupted by this error, which probably has to do with memory management and buffer allocation:
+
     Recording WAVE '/home/pi/audio_recordings/test.wav' : Unsigned 8 bit, Rate 48000 Hz, Mono
     overrun!!! (at least 37.970 ms long)
 
