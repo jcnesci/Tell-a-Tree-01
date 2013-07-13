@@ -71,11 +71,11 @@ I set the master to 198.168.0.100 and the slave to 198.168.0.150.
 *	[ setup ssh-key ] (https://blogs.oracle.com/jkini/entry/how_to_scp_scp_and) on your Pi's so rsync can operate without asking you for a password everytime. Do [ this ] (http://www.thegeekstuff.com/2010/04/how-to-fix-offending-key-in-sshknown_hosts-file/) too if problems arise.
 *	on the Master, [ setup your USB audio adapter ] (http://asliceofraspberrypi.blogspot.ca/2013/02/adding-audio-input-device.html) to be the default recording device.
 
-Finally, for running your python scripts on startup, do this: 
-*	in Master Pi's shell: sudo bash
-*	in Master Pi's shell: crontab -e
-*	in crontab, comment-out everything (with '#') then add this line at the bottom: @reboot python /home/pi/tellatree_master.py
-*	for the Slave, do the same but with the slave code file: @reboot python /home/pi/tellatree_slave.py
+Finally, for running your python scripts on startup, start with the Master by entering this in the shell: 
+*	`sudo bash`
+*	`crontab -e`
+*	in crontab, comment-out everything (with '#') then add this line at the bottom: `@reboot python /home/pi/tellatree_master.py`
+*	for the Slave, do the same using the slave code file: `@reboot python /home/pi/tellatree_slave.py`
 
 ### Startup & running the Pi's
 
