@@ -122,3 +122,5 @@ For the Slave:
 ## Credits
 Thanks to the whole [ ITP Camp ] (itp.nyu.edu/camp2013/) crew for making it such a fostering environment and great learning experience.
 Huge thanks to [ Matt Richardson ] (http://mattrichardson.com/) for helping me tackle the Raspberry Pi.
+
+See my work and other projects at [ www.jcnesci.com ] (http://jcnesci.com)
