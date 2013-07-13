@@ -79,7 +79,7 @@ Finally, for running your python scripts on startup, start with the Master by en
 
 ### Startup & running the Pi's
 
-Power-up the Master first so the VPN gets running, then the Slave.
+Power-up the Master first so the wireless network gets running, then the Slave.
 Use a laptop to connect to your wireless network over Wifi, then SSH into your Pi's in two seperate terminal windows, so you can see your Pi's print results while they're working.
 
 Push your Master's record button; you have 10 seconds to record a message (though there are problems with that, see below). In the terminal, you should see a print result like '1- file saved: ' + the filename, and '2- rsync complete'.
@@ -89,10 +89,11 @@ Push your Slave's record button, and you should hear one of the recorded message
 ## Problems to solve
 
 Do let me know if you have ideas for fixing the following issues:
-*	the recording does works but somtimes throws this error, which probably has to do with memory management and buffer allocation:
+*	rsync will have hiccups sometimes and not really work, although it usually does ; not too sure how to make it more stable.
+*	the recording does work but sometimes it is interrupted by this error, which probably has to do with memory management and buffer allocation:
+
 	Recording WAVE '/home/pi/audio_recordings/test.wav' : Unsigned 8 bit, Rate 48000 Hz, Mono
 	overrun!!! (at least 37.970 ms long)
-*	rsync will have hiccups sometimes and not really work, although it usually does ; not too sure how to make it more stable.
 
 ## Parts list
 
